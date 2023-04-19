@@ -1,12 +1,12 @@
 # 우아한 테크코스
 
 ## 💙 Level 1 (23.02.07. ~ 23.03.31)
-|   프로젝트    |  페어  |  1 단계   |  2 단계    |   🌟  코드리뷰 정리 🌟   |    배포 페이지    |
-  | :---------- | :------: | :------: | :-----: | :--------------: | :-------: |
-  | 자동차 경주 | [에디]() |  [🏎](https://github.com/woowacourse/javascript-racingcar/pull/151) | [🏎](https://github.com/woowacourse/javascript-racingcar/pull/203) | [🏎](https://hae-on.tistory.com/80) | 없음 (콘솔기반) |
-  | 로또 | [가람]() |  [🎱](https://github.com/woowacourse/javascript-lotto/pull/170) | [🎱](https://github.com/woowacourse/javascript-lotto/pull/218) | [🎱](https://hae-on.tistory.com/81) |  [🎱](https://hae-on.github.io/javascript-lotto-1/dist/) |
-  | 점심 뭐 먹지 | [헤다]() |  [🍛](https://github.com/woowacourse/javascript-lunch/pull/13) | [🍛](https://github.com/woowacourse/javascript-lunch/pull/84) | [🍛](https://hae-on.tistory.com/82) |  [🍛](https://hae-on.github.io/javascript-lunch/dist/) |
-  | 영화 리뷰 | [파인]() |  [🎬](https://github.com/woowacourse/javascript-movie-review/pull/9#issuecomment-1471925603) | [🎬](https://github.com/woowacourse/javascript-movie-review/pull/60#issuecomment-1484469280) | [🎬](https://hae-on.tistory.com/83) |  [🎬](https://hae-on.github.io/javascript-movie-review/dist/) |
+|   프로젝트    |  페어  |  1 단계   |  2 단계    |   🌟  코드리뷰 정리 🌟   |    배포 페이지    | README |
+  | :---------- | :------: | :------: | :-----: | :--------------: | :-------: | :----|
+  | 자동차 경주 | [에디]() |  [🏎](https://github.com/woowacourse/javascript-racingcar/pull/151) | [🏎](https://github.com/woowacourse/javascript-racingcar/pull/203) | [🏎](https://hae-on.tistory.com/80) | 없음 (콘솔기반) | - |
+  | 로또 | [가람]() |  [🎱](https://github.com/woowacourse/javascript-lotto/pull/170) | [🎱](https://github.com/woowacourse/javascript-lotto/pull/218) | [🎱](https://hae-on.tistory.com/81) |  [🎱](https://hae-on.github.io/javascript-lotto-1/dist/) | - |
+  | 점심 뭐 먹지 | [헤다]() |  [🍛](https://github.com/woowacourse/javascript-lunch/pull/13) | [🍛](https://github.com/woowacourse/javascript-lunch/pull/84) | [🍛](https://hae-on.tistory.com/82) |  [🍛](https://hae-on.github.io/javascript-lunch/dist/) | - |
+  | 영화 리뷰 | [파인]() |  [🎬](https://github.com/woowacourse/javascript-movie-review/pull/9#issuecomment-1471925603) | [🎬](https://github.com/woowacourse/javascript-movie-review/pull/60#issuecomment-1484469280) | [🎬](https://hae-on.tistory.com/83) |  [🎬](https://hae-on.github.io/javascript-movie-review/dist/) | - |
 
 ## 📖 학습로그
 
