@@ -2,7 +2,7 @@
 
 ## 💙 Level 1 (23.02.07. ~ 23.03.31)
 |   프로젝트    |  페어  |  1 단계   |  2 단계    |   🌟  코드리뷰 정리 🌟   |    배포 페이지    | README |
-  | :---------- | :------: | :------: | :-----: | :--------------: | :-------: | :----|
+  | :---------- | :------: | :------: | :-----: | :--------------: | :-------: | :----: |
   | 자동차 경주 | [에디]() |  [🏎](https://github.com/woowacourse/javascript-racingcar/pull/151) | [🏎](https://github.com/woowacourse/javascript-racingcar/pull/203) | [🏎](https://hae-on.tistory.com/80) | 없음 (콘솔기반) | - |
   | 로또 | [가람]() |  [🎱](https://github.com/woowacourse/javascript-lotto/pull/170) | [🎱](https://github.com/woowacourse/javascript-lotto/pull/218) | [🎱](https://hae-on.tistory.com/81) |  [🎱](https://hae-on.github.io/javascript-lotto-1/dist/) | - |
   | 점심 뭐 먹지 | [헤다]() |  [🍛](https://github.com/woowacourse/javascript-lunch/pull/13) | [🍛](https://github.com/woowacourse/javascript-lunch/pull/84) | [🍛](https://hae-on.tistory.com/82) |  [🍛](https://hae-on.github.io/javascript-lunch/dist/) | - |
@@ -10,7 +10,7 @@
 
 ## 💙 Level 2 (23.04.11. ~ 23.06.09)
 |   프로젝트    |  페어  |  1 단계   |  2 단계    |   3 단계    |   🌟  코드리뷰 정리 🌟   |    배포 페이지    | README |
-  | :---------- | :------: | :------: | :-----: | :-----: | :--------------: | :-------: | :----|
+  | :---------- | :------: | :------: | :-----: | :-----: | :--------------: | :-------: | :----: |
   | 다시, 점심 뭐 먹지 | [야미]() |  [🍲](https://github.com/woowacourse/react-lunch/pull/38) | [🍲](https://github.com/woowacourse/react-lunch/pull/60) | 없음 | [🍲](https://hae-on.tistory.com/84) | [🍲](https://hae-on.github.io/react-lunch/) | [🍲](https://github.com/hae-on/react-lunch/tree/step1) |
   | 페이먼츠 | [룩소]() |  [💵](https://github.com/woowacourse/react-payments/pull/200#discussion_r1174967060) | [💵]() | [💵]() | [💵]() |  [💵](https://hae-on.github.io/react-payments/) | [💵](https://github.com/hae-on/react-payments/tree/step1) |
   | 장바구니 | []() |  - | - | - | - | -| - |
