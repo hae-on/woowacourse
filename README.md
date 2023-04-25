@@ -8,6 +8,14 @@
   | 점심 뭐 먹지 | [헤다]() |  [🍛](https://github.com/woowacourse/javascript-lunch/pull/13) | [🍛](https://github.com/woowacourse/javascript-lunch/pull/84) | [🍛](https://hae-on.tistory.com/82) |  [🍛](https://hae-on.github.io/javascript-lunch/dist/) | - |
   | 영화 리뷰 | [파인]() |  [🎬](https://github.com/woowacourse/javascript-movie-review/pull/9#issuecomment-1471925603) | [🎬](https://github.com/woowacourse/javascript-movie-review/pull/60#issuecomment-1484469280) | [🎬](https://hae-on.tistory.com/83) |  [🎬](https://hae-on.github.io/javascript-movie-review/dist/) | - |
 
+## 💙 Level 2 (23.04.11. ~ 23.06.09)
+|   프로젝트    |  페어  |  1 단계   |  2 단계    |   3 단계    |   🌟  코드리뷰 정리 🌟   |    배포 페이지    | README |
+  | :---------- | :------: | :------: | :-----: | :-----: | :--------------: | :-------: | :----|
+  | 다시, 점심 뭐 먹지 | [야미]() |  [🍲](https://github.com/woowacourse/react-lunch/pull/38) | [🍲](https://github.com/woowacourse/react-lunch/pull/60) | 없음 | [🍲](https://hae-on.tistory.com/84) | [🍲](https://hae-on.github.io/react-lunch/) | [🍲](https://github.com/hae-on/react-lunch/tree/step1) |
+  | 페이먼츠 | [룩소]() |  [💵](https://github.com/woowacourse/react-payments/pull/200#discussion_r1174967060) | [💵]() | [💵]() | [💵]() |  [💵](https://hae-on.github.io/react-payments/) | [💵](https://github.com/hae-on/react-payments/tree/step1) |
+  | 장바구니 | []() |  - | - | - | - | -| - |
+
+
 ## 📖 학습로그
 
 - [innerText와 textContent의 차이](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/innerText%EC%99%80%20textContent%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
