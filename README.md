@@ -12,7 +12,7 @@
 |   프로젝트    |  페어  |  1 단계   |  2 단계    |   3 단계    |   🌟  코드리뷰 정리 🌟   |    배포 페이지    | README |
   | :---------- | :------: | :------: | :-----: | :-----: | :--------------: | :-------: | :----: |
   | 다시, 점심 뭐 먹지 | [야미]() |  [🍲](https://github.com/woowacourse/react-lunch/pull/38) | [🍲](https://github.com/woowacourse/react-lunch/pull/60) | 없음 | [🍲](https://hae-on.tistory.com/84) | [🍲](https://hae-on.github.io/react-lunch/) | [🍲](https://github.com/hae-on/react-lunch/tree/step2) |
-  | 페이먼츠 | [룩소]() |  [💵](https://github.com/woowacourse/react-payments/pull/200#discussion_r1174967060) | [💵]() | [💵]() | [💵]() |  [💵](https://hae-on.github.io/react-payments/) | [💵](https://github.com/hae-on/react-payments/tree/step2) |
+  | 페이먼츠 | [룩소]() |  [💵](https://github.com/woowacourse/react-payments/pull/200#discussion_r1174967060) | [💵](https://github.com/woowacourse/react-payments/pull/245) | [💵]() | [💵]() |  [💵](https://hae-on.github.io/react-payments/) | [💵](https://github.com/hae-on/react-payments/tree/step2) |
   | 장바구니 | []() |  - | - | - | - | -| - |
 
 
