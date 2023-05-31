@@ -27,3 +27,4 @@
 
 ## 📝 글쓰기 
 - [한달 생활기](https://github.com/woowacourse/woowa-writing-5/pull/88)
+- [개복치로 살아남기](https://github.com/woowacourse/woowa-writing-5/pull/312)
