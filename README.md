@@ -13,8 +13,8 @@
   | :---------- | :------: | :------: | :-----: | :-----: | :--------------: | :-------: | :----: |
   | 다시, 점심 뭐 먹지 | [야미]() |  [🍲](https://github.com/woowacourse/react-lunch/pull/38) | [🍲](https://github.com/woowacourse/react-lunch/pull/60) | 없음 | [🍲](https://hae-on.tistory.com/84) | [🍲](https://hae-on.github.io/react-lunch/) | [🍲](https://github.com/hae-on/react-lunch/tree/step2) |
   | 페이먼츠 | [룩소]() |  [💵](https://github.com/woowacourse/react-payments/pull/200#discussion_r1174967060) | [💵](https://github.com/woowacourse/react-payments/pull/245) | [💵](https://github.com/woowacourse/react-payments/pull/298) | [💵]() |  [💵](https://hae-on.github.io/react-payments/) | [💵](https://github.com/hae-on/react-payments/tree/step2) |
-  | 장바구니 | [황펭]() |  [🛒](https://github.com/woowacourse/react-shopping-cart/pull/156) | 🛒 | 없음 | 🛒 | [🛒](https://hae-on.github.io/react-shopping-cart/) | 🛒 |
-  | 장바구니 (협업) | []() |  - | - | - | - | -| - |
+  | 장바구니 | [황펭]() |  [🛒](https://github.com/woowacourse/react-shopping-cart/pull/156) | [🛒](https://github.com/woowacourse/react-shopping-cart/pull/202) | 없음 | 🛒 | [🛒](https://hae-on.github.io/react-shopping-cart/) | [🛒](https://github.com/hae-on/react-shopping-cart/tree/step2) |
+  | 장바구니 (협업) | [제로]() |  - | - | - | - | -| - |
 
 
 ## 📖 학습로그
