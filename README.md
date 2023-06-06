@@ -24,6 +24,7 @@
 - [디바운싱과 쓰로틀링](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/%EB%94%94%EB%B0%94%EC%9A%B4%EC%8B%B1%EA%B3%BC%20%EC%93%B0%EB%A1%9C%ED%8B%80%EB%A7%81.md)
 - [dependencies와 devDependencies](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/dependencies%EC%99%80%20devDependencies.md)
 - [recoil의 selector](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/recoil%EC%9D%98%20selector.md)
+- [프론트엔드의 에러핸들링](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98%20%EC%97%90%EB%9F%AC%ED%95%B8%EB%93%A4%EB%A7%81.md)
 
 ## 📝 글쓰기 
 - [한달 생활기](https://github.com/woowacourse/woowa-writing-5/pull/88)
