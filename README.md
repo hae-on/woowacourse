@@ -26,6 +26,12 @@
 - [recoil의 selector](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/recoil%EC%9D%98%20selector.md)
 - [프론트엔드의 에러핸들링](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98%20%EC%97%90%EB%9F%AC%ED%95%B8%EB%93%A4%EB%A7%81.md)
 
+## 🤔 생각해보기
+- [자동차 경주](https://hae-on.tistory.com/91)
+- [로또](https://hae-on.tistory.com/92)
+- [점심 뭐 먹지](https://hae-on.tistory.com/93)
+- [영화 리뷰]()
+
 ## 📝 글쓰기 
 - [한달 생활기](https://github.com/woowacourse/woowa-writing-5/pull/88)
 - [개복치로 살아남기](https://github.com/woowacourse/woowa-writing-5/pull/312)
