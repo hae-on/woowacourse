@@ -30,7 +30,10 @@
 - [자동차 경주](https://hae-on.tistory.com/91)
 - [로또](https://hae-on.tistory.com/92)
 - [점심 뭐 먹지](https://hae-on.tistory.com/93)
-- [영화 리뷰]()
+- [영화 리뷰](https://hae-on.tistory.com/94)
+- [다시,점심 뭐먹지](https://hae-on.tistory.com/95)
+- [페이먼츠](https://hae-on.tistory.com/96)
+- [장바구니](https://hae-on.tistory.com/97)
 
 ## 📝 글쓰기 
 - [한달 생활기](https://github.com/woowacourse/woowa-writing-5/pull/88)
