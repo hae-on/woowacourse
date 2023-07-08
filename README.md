@@ -18,7 +18,6 @@
 
 
 ## 📖 학습로그
-
 - [innerText와 textContent의 차이](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/innerText%EC%99%80%20textContent%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 - [HTML의 자식 요소 제거 방법](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/%EC%9E%90%EC%8B%9D%20%EC%9A%94%EC%86%8C%20%EC%A0%9C%EA%B1%B0%20%EB%B0%A9%EC%8B%9D.md)
 - [디바운싱과 쓰로틀링](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/%EB%94%94%EB%B0%94%EC%9A%B4%EC%8B%B1%EA%B3%BC%20%EC%93%B0%EB%A1%9C%ED%8B%80%EB%A7%81.md)
@@ -38,3 +37,11 @@
 ## 📝 글쓰기 
 - [한달 생활기](https://github.com/woowacourse/woowa-writing-5/pull/88)
 - [개복치로 살아남기](https://github.com/woowacourse/woowa-writing-5/pull/312)
+
+## 🎤 테코톡
+<img width="350" alt="스크린샷 2023-07-08 오후 10 16 43" src="https://github.com/hae-on/woowacourse/assets/80464961/ed51b041-81fb-4f72-9ec8-1ab7c64456d4">
+
+- [테코톡 영상으로 이동하기](https://www.youtube.com/watch?v=6p0lZaSAW3A&t=2s)
+- [테코톡 회고록으로 이동하기](https://hae-on.tistory.com/106)
+
+
