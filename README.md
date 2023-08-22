@@ -16,6 +16,18 @@
   | 장바구니 | [황펭](https://github.com/leejin-yang) |  [🛒](https://github.com/woowacourse/react-shopping-cart/pull/156) | [🛒](https://github.com/woowacourse/react-shopping-cart/pull/202) | 없음 | [🛒](https://hae-on.tistory.com/89) | [🛒](https://hae-on.github.io/react-shopping-cart/) | [🛒](https://github.com/hae-on/react-shopping-cart/blob/step2/README.md) |
   | 장바구니 (협업) | [제로](https://github.com/inyeong-kang) |  [🛍](https://github.com/woowacourse/react-shopping-cart-prod/pull/100) | [🛍](https://github.com/woowacourse/react-shopping-cart-prod/pull/135) | 없음 | [🛍](https://hae-on.tistory.com/90) | 없음 | [🛍](https://github.com/hae-on/react-shopping-cart-prod/blob/step2/README.md) |
 
+## 💙 Level 3 (23.06.27. ~ 23.08.18)
+### 펀잇(Fun Eat)
+- [홈페이지 바로가기](https://funeat.site/)
+- [저장소 바로가기](https://github.com/woowacourse-teams/2023-fun-eat)
+
+### 팀원
+- 프론트엔드:
+- 백엔드:
+
+### 관련 포스트
+- [a tag와 button의 차이는 무엇일까?](https://github.com/woowacourse-teams/2023-fun-eat/wiki/%5B%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1%5D-a-tag%EC%99%80-button%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%3F)
+- [multipart](https://github.com/woowacourse-teams/2023-fun-eat/wiki/multipart)
 
 ## 📖 학습로그
 - [innerText와 textContent의 차이](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/innerText%EC%99%80%20textContent%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
