@@ -22,8 +22,8 @@
 - [저장소 바로가기](https://github.com/woowacourse-teams/2023-fun-eat)
 
 ### 팀원
-- 프론트엔드:
-- 백엔드:
+- 프론트엔드: [타미](https://github.com/xodms0309), [해온](https://github.com/hae-on), [황펭](https://github.com/leejin-yang)
+- 백엔드: [로건](https://github.com/70825), [망고](https://github.com/Go-Jaecheol), [오잉](https://github.com/hanueleee), [우가](https://github.com/wugawuga),
 
 ### 관련 포스트
 - [a tag와 button의 차이는 무엇일까?](https://github.com/woowacourse-teams/2023-fun-eat/wiki/%5B%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1%5D-a-tag%EC%99%80-button%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%3F)
