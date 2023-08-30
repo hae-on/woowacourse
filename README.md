@@ -28,6 +28,8 @@
 ### 관련 포스트
 - [a tag와 button의 차이는 무엇일까?](https://github.com/woowacourse-teams/2023-fun-eat/wiki/%5B%EC%9B%B9-%EC%A0%91%EA%B7%BC%EC%84%B1%5D-a-tag%EC%99%80-button%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%3F)
 - [multipart](https://github.com/woowacourse-teams/2023-fun-eat/wiki/multipart)
+- [프로젝트 기획](https://hae-on.tistory.com/109)
+- [1차 데모데이](https://hae-on.tistory.com/110)
 
 ## 📖 학습로그
 - [innerText와 textContent의 차이](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/innerText%EC%99%80%20textContent%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
