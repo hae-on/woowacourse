@@ -31,6 +31,20 @@
 - [프로젝트 기획](https://hae-on.tistory.com/109)
 - [1차 데모데이](https://hae-on.tistory.com/110)
 
+## 💙 Level 4 (23.08.29. ~ 23.10.23)
+|   프로젝트    |  1 단계   |  2 단계   |    배포 페이지    |
+  | :---------- | :------: | :-----: | :-------: |
+  | 프론트엔드 성능 베이스캠프 | [📓](https://github.com/woowacourse/perf-basecamp/pull/69) | 없음 | [📓](https://dgfmubw99ap1g.cloudfront.net/) |
+  | 레이아웃 컴포넌트 | [🧱](https://github.com/woowacourse/layout-component/pull/6) | [🧱](https://github.com/woowacourse/layout-component/pull/52) | [🧱](https://www.npmjs.com/package/hae_on-layout-component) |
+  | 프론트엔드의 렌더링 | [🎁](https://github.com/woowacourse/frontend-rendering/pull/4) | [🎁](https://github.com/woowacourse/frontend-rendering/pull/51) | [🎁](https://frontend-rendering-liard.vercel.app/) |
+
+### 관련 포스트
+- [프론트엔드 성능 개선 1](https://hae-on.tistory.com/111)
+- [프론트엔드 성능 개선 2](https://hae-on.tistory.com/112)
+- [펀잇을 성능 개선해보자](https://hae-on.tistory.com/116)
+- [Docusaurus 문서화](https://hae-on.github.io/component-docs/docs/category/layout/)
+- [재사용 가능한 컴포넌트 Grid 오류](https://hae-on.tistory.com/114)
+
 ## 📖 학습로그
 - [innerText와 textContent의 차이](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/innerText%EC%99%80%20textContent%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 - [HTML의 자식 요소 제거 방법](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/%EC%9E%90%EC%8B%9D%20%EC%9A%94%EC%86%8C%20%EC%A0%9C%EA%B1%B0%20%EB%B0%A9%EC%8B%9D.md)
@@ -51,6 +65,7 @@
 ## 📝 글쓰기 
 - [한달 생활기](https://github.com/woowacourse/woowa-writing-5/pull/88)
 - [개복치로 살아남기](https://github.com/woowacourse/woowa-writing-5/pull/312)
+- [내가 되고 싶은 개발자](https://github.com/woowacourse/woowa-writing-5)
 
 ## 🎤 테코톡
 <img width="350" alt="스크린샷 2023-07-08 오후 10 16 43" src="https://github.com/hae-on/woowacourse/assets/80464961/ed51b041-81fb-4f72-9ec8-1ab7c64456d4">
