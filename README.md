@@ -18,6 +18,7 @@
 
 ## 💙 Level 3 (23.06.27. ~ 23.08.18)
 ### 펀잇(Fun Eat)
+<b>"편의점 음식에 대한 자신만의 리뷰와 꿀조합을 작성하여 공유할 수 있는 커뮤니티 서비스"<b/>
 - [홈페이지 바로가기](https://funeat.site/)
 - [저장소 바로가기](https://github.com/woowacourse-teams/2023-fun-eat)
 
