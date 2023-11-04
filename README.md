@@ -46,6 +46,12 @@
 - [Docusaurus 문서화](https://hae-on.github.io/component-docs/docs/category/layout/)
 - [재사용 가능한 컴포넌트 Grid 오류](https://hae-on.tistory.com/114)
 
+## 💙 Level 5 (23.10.24. ~ 23.11.24)
+
+### 관련 포스트
+- [토스트를 구웠는데 먹을 수 없다구요?!?!](https://hae-on.tistory.com/117)
+- [좌충우돌 이미지 압축 구현 일대기](https://hae-on.tistory.com/119)
+
 ## 📖 학습로그
 - [innerText와 textContent의 차이](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/innerText%EC%99%80%20textContent%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 - [HTML의 자식 요소 제거 방법](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/%EC%9E%90%EC%8B%9D%20%EC%9A%94%EC%86%8C%20%EC%A0%9C%EA%B1%B0%20%EB%B0%A9%EC%8B%9D.md)
