@@ -52,6 +52,12 @@
 - [토스트를 구웠는데 먹을 수 없다구요?!?!](https://hae-on.tistory.com/117)
 - [좌충우돌 이미지 압축 구현 일대기](https://hae-on.tistory.com/119)
 
+## 👷🏻‍♀️ 근로
+### 프롤로그 아티클 (Prolog Article)
+<b>"블로그 등 외부 콘텐츠를 URL만으로 편리하게 공유할 수 있는 서비스"<b/>
+- [홈페이지 바로가기](https://prolog.techcourse.co.kr/article)
+- [저장소 바로가기](https://github.com/woowacourse/prolog)
+
 ## 📖 학습로그
 - [innerText와 textContent의 차이](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/innerText%EC%99%80%20textContent%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 - [HTML의 자식 요소 제거 방법](https://github.com/hae-on/woowacourse/blob/master/%ED%95%99%EC%8A%B5%EB%A1%9C%EA%B7%B8/%EC%9E%90%EC%8B%9D%20%EC%9A%94%EC%86%8C%20%EC%A0%9C%EA%B1%B0%20%EB%B0%A9%EC%8B%9D.md)
