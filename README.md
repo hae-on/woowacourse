@@ -51,6 +51,7 @@
 ### 관련 포스트
 - [토스트를 구웠는데 먹을 수 없다구요?!?!](https://hae-on.tistory.com/117)
 - [좌충우돌 이미지 압축 구현 일대기](https://hae-on.tistory.com/119)
+- [펀잇 리뷰 작성 폼에서 웹 접근성 개선하기](https://hae-on.tistory.com/123)
 
 ## 👷🏻‍♀️ 근로
 ### 프롤로그 아티클 (Prolog Article)
@@ -78,6 +79,7 @@
 ## 📝 글쓰기 
 - [한달 생활기](https://github.com/woowacourse/woowa-writing-5/pull/88)
 - [개복치로 살아남기](https://github.com/woowacourse/woowa-writing-5/pull/312)
+- [펀잇 프로젝트 소개글](https://github.com/woowacourse/woowa-writing-5/pull/360/files?short_path=38fdcaf#diff-38fdcaf6aa3735e39234482c1f8784aef5b4b87409ee43c149f2ad5cf7f050b4)
 - [내가 되고 싶은 개발자](https://github.com/woowacourse/woowa-writing-5)
 
 ## 🎤 테코톡
